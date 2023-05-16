@@ -1,0 +1,30 @@
+{
+  "name": "CCE",
+  "id": "com.cce.vpm",
+  "author": "CCE",
+  "url": "https://cce-official.github.io/vpm.json",
+  "packages": {
+    "com.cce.tools": {
+      "versions": {
+        "0.0.2": {
+          "name": "com.cce.tools",
+          "version": "0.0.2",
+          "displayName": "CCE Tools",
+          "description": "CCE 工具集",
+          "unity": "2019.4",
+          "documentationUrl": "http://rimeow.com/",
+          "keywords": [
+            "CCE"
+          ],
+          "author": {
+              "name": "CCE",
+              "email": "it_support-cce@rimeow.com",
+              "url": "https://gitee.com/cce-repo"
+          },
+          "url": "https://cce-official.github.io/com.cce.tools-0.0.2.zip",
+          "repo": "https://gitee.com/cce-repo/CCE-Tools"
+        }
+      }
+    }
+  }
+}
